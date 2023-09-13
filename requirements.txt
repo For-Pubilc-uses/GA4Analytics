@@ -1,3 +1,4 @@
 langchain
 pandas
 streamlit
+pydantic==1.8
